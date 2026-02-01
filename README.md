@@ -28,6 +28,8 @@ basic concepts of Python GUI programming.
 2. Make sure Tkinter is available
 3. Open the project folder
 4. Run the file:
+   
 
-```bash
-python todo_app.py
+
+pyt<img width="308" height="528" alt="image" src="https://github.com/user-attachments/assets/e0e701ac-ad2b-4fb7-b8b0-ca258e12e99e" />
+hon todo_app.py
